@@ -21,5 +21,12 @@ public class SeleniumTest {
 		int q=10;
 		String s="hello";
 	}
+	@Test
+	public void eu1()
+	{
+		System.out.println("euswert");
+		int q=10;
+		String s="hello";
+	}
 
 }
