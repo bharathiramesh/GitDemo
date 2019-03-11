@@ -8,6 +8,10 @@ public class AppiumTest {
 	public void bangalore()
 	{
 		System.out.println("bangalore");
+		System.out.println("chennai");
+		System.out.print("bombay");
+		System.out.println("calcutta");
+		System.out.print("london");
 		
 	}
 	@Test

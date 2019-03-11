@@ -8,6 +8,10 @@ public class SeleniumTest {
 	{
 		System.out.println("ba");
 		System.out.print("jira");
+		System.out.println("ba");
+		System.out.print("jira");
+		System.out.println("ba");
+		System.out.print("jira");
 		
 	}
 	@Test
