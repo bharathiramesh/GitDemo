@@ -7,6 +7,7 @@ public class SeleniumTest {
 	public void ba()
 	{
 		System.out.println("ba");
+		System.out.print("jira");
 		
 	}
 	@Test
