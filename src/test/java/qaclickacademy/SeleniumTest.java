@@ -18,6 +18,8 @@ public class SeleniumTest {
 	public void eu()
 	{
 		System.out.println("eu");
+		int q=10;
+		String s="hello";
 	}
 
 }
